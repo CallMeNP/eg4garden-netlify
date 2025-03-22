@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//t30/t1579/index/","title":"瑜伽师地论","created":"2025-03-21T07:57:17.365+08:00","updated":"2025-03-22T22:09:12.290+08:00"}
+{"dg-publish":true,"permalink":"//t30/t1579/index/","title":"瑜伽师地论"}
 ---
 
 # 瑜伽师地论
