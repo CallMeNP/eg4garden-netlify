@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//t30/t1579/index/","title":"瑜伽师地论"}
+{"dg-publish":true,"permalink":"/原文/T30/T1579/瑜伽师地论·index/","title":"瑜伽师地论"}
 ---
 
 # 瑜伽师地论
